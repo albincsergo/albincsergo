@@ -9,3 +9,6 @@ I learn coding 🖥️ from YouTube, Codecademy and other sites. #selflearner �
 Follow me on [Twitter](https://twitter.com/albincsergo2) 🐦
 
 _Ps: for curiouses: I love cryptocurrencies and I have a Raspberry Pi 4 🍓_
+
+
+**Let's change the world by coding! 🌍**
