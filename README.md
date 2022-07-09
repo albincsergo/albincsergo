@@ -4,7 +4,7 @@
 
 You can find here the projects on I work. 7 years 🏫. I ❤️ reptiles, fencing, swimming, astronomy 🌠.
 
-I learn coding 🖥️ from YouTube, Codecademy and other sites. #selflearner 🤓
+I learn coding 🖥️ from YouTube, Udemy and other sites. #selflearner 🤓
 
 Follow me on [Twitter](https://twitter.com/albincsergo2) 🐦
 
