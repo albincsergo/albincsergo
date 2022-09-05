@@ -6,7 +6,7 @@ You can find here the projects on I work. 8 years in 🏫. I ❤️ reptiles �
 
 I learn coding 🖥️ from YouTube, Udemy and other sites. #selflearner 🤓
 
-Follow me on [Twitter](https://twitter.com/albincsergo2) 🐦
+Follow me on [Twitter](https://twitter.com/albincsergo) 🐦
 
 _Ps: for curiouses: I love cryptocurrencies and I have a Raspberry Pi 4 🍓
 
