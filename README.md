@@ -1,14 +1,20 @@
-# Albin Csergő ✨
+# Hi, I'm Albin! 👋
 
-**Welcome on my GitHub**
+I'm a self-taught programmer who loves to build cool stuff. 💻 I mainly focus on web3 technologies and quantum computing, but I'm always looking to learn new things.
 
-You can find here the projects on I work. 8 years in 🏫. I ❤️ reptiles 🐍, fencing, swimming, astronomy 🌠.
+## 🔍 About Me
 
-I learn coding 🖥️ from YouTube, Udemy and other sites. #selflearner 🤓
+- 💻 I'm a self-learner who loves the mental stimuli of coding.
+- 🌐 I love working with web3 technologies and building decentralized applications.
+- 📝 I write technical articles on my [website](https://albincsergo.xyz).
 
-Follow me on [Twitter](https://twitter.com/albincsergo) 🐦
+## 🛠️ Skills
 
-_Ps: for curiouses: I love cryptocurrencies and I have a Raspberry Pi 4 🍓
+- 🌐 Web development: HTML, CSS, JavaScript, React, Next.js, TailwindCSS
+- ⛓️ Blockchain development: Solidity, Rust, Ethers.js, Ethereum, Solana
+- 🐍 Programming languages: Python,
 
+## 📫 Get in touch
 
-**Let's change the world by coding! 🌍**
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/albincsergo/)
+- 🐦 Follow me on [Twitter](https://twitter.com/albincsergo)
