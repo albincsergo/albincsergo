@@ -10,11 +10,11 @@ I'm a self-taught programmer who loves to build cool stuff. 💻 I mainly focus 
 
 ## 🛠️ Skills
 
-- 🌐 Web development: HTML, CSS, JavaScript, React, Next.js, TailwindCSS
+- 🌐 Web development: HTML, CSS, JavaScript, React, Next.js, TailwindCSS, TypeScript
 - ⛓️ Blockchain development: Solidity, Rust, Ethers.js, Ethereum, Solana
-- 🐍 Programming languages: Python,
+- 🐍 Programming languages: Python, Qiskit, C
 
 ## 📫 Get in touch
 
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/albincsergo/)
+- 💼 Connect with me on [Telegram](https://t.me/albincsergo)
 - 🐦 Follow me on [Twitter](https://twitter.com/albincsergo)
